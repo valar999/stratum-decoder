@@ -8,7 +8,7 @@ Docker
 
 # Quickstart
 
-```console
+```
 docker run -it --rm golang
 go get github.com/valar999/stratum-submit
 cd src/github.com/valar999/stratum-submit
